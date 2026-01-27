@@ -30,10 +30,10 @@
 - 3115 6S 900-1200kv motors (Brand isn't so important but very cheap can cause overheat)
 
 - `ESC 55+A (but calibrate trottle limit in that case)` OR 4x 80 - 100A esc with 12s Matek pdb. In high-perfomance case i suggest you to use ESC from "Molniya 1/2", it's Skywalker 100A v2
-  
-<a href="https://ibb.co/tMcSQHRz"><img src="https://i.ibb.co/0jZkmn5K/a847152f-01b6-4375-b95c-e53ed62884ed.jpg" alt="a847152f 01b6 4375 b95c e53ed62884ed" border="0"></a>
 
-"Molniya 2" photo from internet
+   <img src="https://i.ibb.co/QFcKkGst/Whats-App-Image-2025-02-01-at-22-     06-29-1.jpg" alt="Whats App Image 2025 02 01 at 22 06 29 (1)" border="0">
+
+   "Molniya 2" photo from internet
 
 - VTX - Caddx Walksnail moonlight for expensive version and 3.3ghz+ 2W+ analog VTX for cheap one. You can offer mount for youe model of VTX in issue page. So I prefer `AKK 3W 5.8Ghz` for start
 
