@@ -41,6 +41,10 @@
 
 - Camera - `Ratel pro` and JS 640X512 / 384X288 / 256X192  if you heed thermal camera (You can take it from "Knaz Vandal Novgorodskiy")
 
+## Documentation 
+
+<img src="https://i.ibb.co/0prRkw42/FPV-interseptor.png" alt="FPV interseptor" border="0">
+
 ## Feel free forking:
 
 Project is open for everyone exepting russian. But mention my name and pin link to that repositore if you use it
