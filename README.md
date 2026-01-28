@@ -13,7 +13,7 @@
 
 <a href="https://ibb.co/XZzqTRhb"><img src="https://i.ibb.co/SXKzpChP/5463373201845979960.jpg" alt="5463373201845979960" border="0"></a>
 
-"Knaz Vandal Novgorodskiy" captured by me
+"Knaz Vandal Novgorodskiy" photographed by me
 
 ## Key Features
 
