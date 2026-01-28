@@ -11,7 +11,7 @@
 ## About
 "Predator" is a powerfull FPV drone that is designed to be assembled from cheap and accessible components. Especially I used trophy parts from russian FPV drone "Knaz Vandal Novgorodskiy" as a refense of popular trophy parts. The purpose of this project - make an affordable interceptor drone, which can be assembled mainly from trophy items, for the Ukrainian military.
 
-<a href="https://ibb.co/XZzqTRhb"><img src="https://i.ibb.co/SXKzpChP/5463373201845979960.jpg" alt="5463373201845979960" border="0"></a>
+<img src="https://i.ibb.co/zWMg8WSt/viber-image-2026-01-28-18-19-50-553.jpg" alt="viber image 2026 01 28 18 19 50 553" border="0">
 
 "Knaz Vandal Novgorodskiy" photographed by me
 
